@@ -23,8 +23,8 @@ BranchX is a wrapper over core Branch SDK that allows the client to have more co
 1. Clone this repository.
 2. Import the project into Android Studio.
 3. Open Gradle.properties and update the following values -
-  1. branchX.appId=YOUR_APP_ID_HERE
-  2. branchX.server=BRANCH_CONFIGURATION_HOST_HERE
+    1. branchX.appId=YOUR_APP_ID_HERE
+    2. branchX.server=BRANCH_CONFIGURATION_HOST_HERE
 4. Run the configuration middleware.
 5. Build and install the application on your device.
 
